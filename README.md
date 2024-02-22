@@ -1,4 +1,4 @@
-# Mario-game-EHB354E-Project-Spring-2022-2023
+# Mario Game in C++
 
 Team: Adnan Can Büyükşirin,
       Efe Mert Çırpar
